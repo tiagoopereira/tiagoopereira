@@ -1,6 +1,8 @@
 ### Hi! I'm Tiago Pereira 👋
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=8&theme=dracula" width="50%"/>
+  <a href="https://github.com/tiagoopereira" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/tiagopereira98" target="_blank">
