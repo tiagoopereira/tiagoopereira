@@ -1,5 +1,5 @@
 ### Hi! I'm Tiago Pereira 👋
-<div style="margin: auto">
+<div>
   <a href="https://github.com/tiagoopereira" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=8&theme=dracula" width="50%"/>
   </a>
