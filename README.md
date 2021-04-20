@@ -1,5 +1,6 @@
-### Hi there 👋
-#### I'm Tiago Pereira!
+## Hi there 👋
+##### I'm Tiago Pereira!
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=8&theme=dracula" width="50%"/>
 </div>
