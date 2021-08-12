@@ -1,7 +1,7 @@
 ### Hi! I'm Tiago Pereira 👋
 <div>
   <a href="https://github.com/tiagoopereira" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=tiagoopereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200em" tyle="max-width: 80%"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=tiagoopereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="200em" tyle="max-width: 100%"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=100&theme=dracula" height="200em" style="max-width: 100%" />
   </a>
 </div>
