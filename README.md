@@ -4,6 +4,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=100&theme=dracula" width="50%"/>
   </a>
 </div>
+
+##
+
 <div>
   <a href="https://www.linkedin.com/in/tiagopereira98" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
