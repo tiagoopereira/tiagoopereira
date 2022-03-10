@@ -1,4 +1,5 @@
 ### Hi! I'm Tiago Pereira 👋
+#### I'm backend developer and a PHP lover ❤️
 <div>
   <a href="https://github.com/tiagoopereira" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&layout=compact&langs_count=100&theme=dracula" height="200em" style="max-width: 100%" />
