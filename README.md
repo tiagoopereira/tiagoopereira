@@ -36,10 +36,10 @@ src="https://img.shields.io/twitter/follow/_tgpereira?logo=twitter&style=for-the
 ### Badges
 
 <b>My GitHub Stats</b>
-<div>
-  <a href="http://www.github.com/tiagoopereira"><img src="https://github-readme-stats.vercel.app/api?username=tiagoopereira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tiagoopereira's GitHub stats" /></a>
+<div width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagoopereira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tiagoopereira's GitHub stats" height="200em" />
 
-  <a href="https://github.com/tiagoopereira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&langs_count=12&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoopereira&langs_count=12&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="200em" />
 </div>
 
 <b>Top Repositories</b>
